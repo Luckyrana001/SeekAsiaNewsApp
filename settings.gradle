@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "NY Times News"
+rootProject.name = "Seek Asia News App"
 include ':app'
